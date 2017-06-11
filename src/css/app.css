@@ -1,0 +1,23 @@
+body {
+    background-image: url('../css/media/SI-logo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+div.otheader {
+  font-size: 200%;
+  font-weight: bolder;
+}
+
+div.server {
+  border-style: solid;
+  border-width: 2px;
+  max-width: 200px;
+  min-width: 100px;
+  min-height: 50px;
+  font-size: 10pt;
+  font-weight: bold;
+  float: left;
+}
